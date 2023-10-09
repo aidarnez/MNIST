@@ -21,7 +21,7 @@ I created web app with flask and JS.
 Web app saves drawings to img folder. 
 Accuracy results on saved drawings:
 
-**basic nn - 0.899**
+**basic nn - 0.899**,
 
 **cnn - 0.967**
 
