@@ -18,10 +18,10 @@ I created web app with flask and JS.
 ![image](https://github.com/aidarnez/MNIST/assets/90914886/ae207034-3b21-44d2-ad61-790a70cfc966)
 
 ## Testing
-Web app saves drawings to img folder. Model results on saved drawings:
-Accuracy:
-basic nn - 0.899
-cnn - 0.967
+Web app saves drawings to img folder. 
+Accuracy results on saved drawings:
+**basic nn - 0.899
+cnn - 0.967**
 ## Requirements
 You can install requirements using the following command
 ```[shell]
